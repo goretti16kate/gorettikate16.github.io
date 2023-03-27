@@ -110,3 +110,11 @@ The root.txt file will then be found on the root home folder.
 
 ### Conclusion
 I hope you had fun with the room, feel free to checkout my other article, follow me on twitter and connect on LinkedIn. Till next time.....
+
+<a href="https://www.linkedin.com/in/catherine-goretti/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Kat_goretti">
+  <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
+  </a>
+</div>
